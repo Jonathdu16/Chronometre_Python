@@ -5,7 +5,6 @@ fenetrePrincipale = Tk()
 
 def getEntry():
     print(ChampChoiceTime.get())
-    if (= True)
     ResultatTime = Label(fenetrePrincipale, text = ChampChoiceTime.get()) 
     ResultatTime.pack()
 
